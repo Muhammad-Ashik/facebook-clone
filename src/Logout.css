@@ -1,0 +1,11 @@
+.logout {
+  background-color: #2e81f4;
+  transition: 0.5s;
+}
+.logout .MuiButton-label {
+  color: white;
+}
+.logout:hover {
+  background-color: #2063c2;
+  transition: 0.5s;
+}

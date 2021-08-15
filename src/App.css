@@ -1,0 +1,11 @@
+.app {
+  min-height: 100vh;
+  background-color: rgb(240, 240, 248);
+}
+.app__body {
+  justify-content: space-between;
+  display: flex;
+}
+* {
+  box-sizing: border-box;
+}
